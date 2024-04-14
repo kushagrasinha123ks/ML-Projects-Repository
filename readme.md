@@ -18,12 +18,6 @@ Here's a brief overview of the projects included in this repository:
 - Trained and optimized an LSTM (Long Short-Term Memory) model with a 1.57 SMAPE % and an RMSE score of 845.54. 
 - The data was assessed and converted for stationarity, and forecasts using the ARIMA model were made for the ensuing five days.
 
-**T20-IPL Match Win Prediction** :
-
-- Collected comprehensive IPL match data by scraping Matches and Deliveries data from multiple sources.
-- Transforming and cleaning data to extract insights and generate features like current and required run rates.
-- With precisions of 83.2, 95.2, and 87.8, decision trees, random forests, and KNNs performed the best.
-
 ## WARNING
 
 This repository is only free to be refered for educational purpose. 
